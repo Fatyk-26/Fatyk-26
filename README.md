@@ -23,8 +23,8 @@ Luxury-inspired landing page with elegant responsive design.
 
 ## 📫 Contact Me
 
-🌐 GitHub: https://github.com/Fatyk-26
-💼 LinkedIn: https://www.linkedin.com/in/fatimah-kadhem-74b98a269 
-📧 Email: FattyKazem@gmail.com
+🌐 GitHub: https://github.com/Fatyk-26 <br>
+💼 LinkedIn: https://www.linkedin.com/in/fatimah-kadhem-74b98a269 <br>
+📧 Email: FattyKazem@gmail.com <br>
 
 
