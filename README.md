@@ -21,7 +21,10 @@ Luxury-inspired landing page with elegant responsive design.
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode" />
 </p>
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 🌐 GitHub: https://github.com/Fatyk-26
+💼 LinkedIn: https://www.linkedin.com/in/fatimah-kadhem-74b98a269 
+📧 Email: FattyKazem@gmail.com
+
 
