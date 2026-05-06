@@ -18,7 +18,7 @@ Luxury-inspired landing page with elegant responsive design.
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode,mysql" />
 </p>
 
 ## 📫 Contact Me
