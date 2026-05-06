@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Fatimah 👋
 
-<!--
-**Fatyk-26/Fatyk-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer passionate about building modern, responsive, and user-friendly web interfaces.
 
-Here are some ideas to get you started:
+✨ Skilled in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* React
+* OOP Concepts
+* Responsive Web Design
+* UI Styling & Layouts
+
+## 🚀 Featured Projects
+
+🔹 Glamour Fashion Store
+Modern responsive fashion website with interactive sections and clean UI.
+
+🔹 Swarovski Landing Page
+Luxury-inspired landing page with elegant design and responsive layouts.
+
+## 🌸 About Me
+
+I enjoy transforming ideas into visually appealing and interactive web experiences while continuously improving my frontend development skills.
+
+## 🛠️ Technologies & Tools
+
+HTML5 • CSS3 • Bootstrap • JavaScript • React • Git • GitHub
+
+## 📫 Connect With Me
+
+🌐 GitHub: [https://github.com/Fatyk-26](https://github.com/Fatyk-26)
